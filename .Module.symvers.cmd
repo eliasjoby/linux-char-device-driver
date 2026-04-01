@@ -1,0 +1,1 @@
+savedcmd_/home/elias/Stuff/CharDevDrivers/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/elias/Stuff/CharDevDrivers/Module.symvers -n -T /home/elias/Stuff/CharDevDrivers/modules.order -i Module.symvers -e 

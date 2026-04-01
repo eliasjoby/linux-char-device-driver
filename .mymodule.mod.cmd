@@ -1,0 +1,1 @@
+savedcmd_/home/elias/Stuff/CharDevDrivers/mymodule.mod := printf '%s\n'   mymodule.o | awk '!x[$$0]++ { print("/home/elias/Stuff/CharDevDrivers/"$$0) }' > /home/elias/Stuff/CharDevDrivers/mymodule.mod

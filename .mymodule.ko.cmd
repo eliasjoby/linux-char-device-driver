@@ -1,0 +1,1 @@
+savedcmd_/home/elias/Stuff/CharDevDrivers/mymodule.ko := x86_64-linux-gnu-ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/elias/Stuff/CharDevDrivers/mymodule.ko /home/elias/Stuff/CharDevDrivers/mymodule.o /home/elias/Stuff/CharDevDrivers/mymodule.mod.o /home/elias/Stuff/CharDevDrivers/.module-common.o
