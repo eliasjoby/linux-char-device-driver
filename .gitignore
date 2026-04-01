@@ -1,5 +1,12 @@
+# Build files
 *.o
 *.ko
 *.mod.*
+*.cmd
+
+# Kernel build artifacts
 Module.symvers
 modules.order
+
+# Misc
+*.log
